@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Basel Shaer 👋
+# Hi, I'm Basel
 
 ### Computer Science Graduate | Full-Stack Developer | AI & Automation Builder
 
