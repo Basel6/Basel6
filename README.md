@@ -32,8 +32,8 @@ I build practical software products using modern web technologies, backend syste
 ### Core Skills
 
 **Languages:** Python, Java, C, SQL, JavaScript, TypeScript  
-**Frontend:** React, Next.js, HTML, CSS 
-**Backend:** FastAPI, REST APIs, JWT authentication, role-based access control
+**Frontend:** React, Next.js, HTML, CSS  
+**Backend:** FastAPI, REST APIs, JWT authentication, role-based access control  
 **Databases:** MySQL, PostgreSQL  
 **Tools:** Git, GitHub, VS Code, OR-Tools
 
