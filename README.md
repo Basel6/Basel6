@@ -2,11 +2,9 @@
 
 # Hi, I'm Basel
 
-### Computer Science Graduate | Full-Stack Developer | AI & Automation Builder
+### Computer Science Graduate | Software Developer | Builder
 
 I build practical software products using modern web technologies, backend systems, AI, and automation.
-
-<img src="https://komarev.com/ghpvc/?username=Basel6&label=Profile%20views&style=flat" alt="Profile views" />
 
 </div>
 
@@ -23,19 +21,14 @@ I build practical software products using modern web technologies, backend syste
 
 ## Tech Stack
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,html,css,fastapi,mysql,postgres,git,github,vscode&perline=8" alt="Tech stack" />
-
 </div>
 
-### Core Skills
-
-**Languages:** Python, Java, C, SQL, JavaScript, TypeScript  
+**Languages:** Python, Java, C, C++, SQL, TypeScript  
 **Frontend:** React, Next.js, HTML, CSS  
 **Backend:** FastAPI, REST APIs, JWT authentication, role-based access control  
 **Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub, VS Code, OR-Tools
+**Tools:** Git, GitHub, VS Code, OR-Tools  
+**CI/CD:** GitHub Actions, Vercel
 
 ---
 
@@ -55,9 +48,9 @@ A full-stack platform for managing trainers, clients, subscriptions, bookings, p
 
 ---
 
-### 📊 CRM and Automation Platform
+### 📊 CRM and task management Platform
 
-An internal CRM and workflow automation system for managing leads, onboarding, verification, deposits, and community access.
+Internal CRM and cross-department task management system with automated workflows — managing leads, onboarding, verification, and community access.
 
 **Highlights**
 
@@ -90,7 +83,7 @@ A university project focused on facial recognition and evaluation.
 
 - Used Python, OpenCV, TensorFlow, DeepFace, and Scikit-learn
 - Evaluated recognition accuracy across a dataset of 500 subjects
-- Improved runtime through image preprocessing and optimization
+- Improved runtime from ~10min to 1-2min through image preprocessing and optimization
 - Compared performance across different image-quality conditions
 
 ---
@@ -160,6 +153,6 @@ Salesian Sisters School, Nazareth
 
 ### Thanks for visiting my profile
 
-Open to junior software engineering, full-stack, backend, automation, AI, and QA opportunities.
+Open to junior software engineering, full-stack, backend and automation opportunities.
 
 </div>
